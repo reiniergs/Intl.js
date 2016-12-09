@@ -9,6 +9,7 @@
 
 # NPM packages installed locally
 node_modules
+.idea
 
 lib/
 tmp/
